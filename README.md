@@ -1,10 +1,11 @@
-🛡️ CyberBallistix | MIT Student | Cybersecurity Enthusiast
+🛡️ CyberBallistix | MIT Student | Cybersecurity Enthusiast<br/>
+📍 Location: Cambridge, MA, USA<br/>
+🎓 Education: MIT (Massachusetts Institute of Technology)<br/>
+🎯 Specialization: Cybersecurity & Network Defense<br/>
 
-📍 Location: Cambridge, MA, USA
-
-🎓 Education: MIT (Massachusetts Institute of Technology)
-
-🎯 Specialization: Cybersecurity & Network Defense
+<p align="center">
+  <a href="https://google.com" alt="Website"><img src="https://img.shields.io/badge/See_my_website-here-brightgreen" /></a>
+</p>
 
 🚀 About Me:
 Passionate about defending digital landscapes and outmaneuvering cyber threats, I’m a dedicated MIT student specializing in cybersecurity. With a deep interest in firewall technologies and network security, I am on a mission to build resilient systems that withstand even the most sophisticated attacks.
