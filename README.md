@@ -4,7 +4,7 @@
 🎯 Specialization: Cybersecurity & Network Defense<br/>
 
 <p align="center">
-  <a href="https://google.com" alt="Website"><img src="https://img.shields.io/badge/See_my_website-here-brightgreen" /></a>
+  <a href="http://victorballistix.xyz/" target="_blank"><img src="https://img.shields.io/badge/See_my_website-here-brightgreen" /></a>
 </p>
 
 🚀 About Me:
